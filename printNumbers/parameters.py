@@ -30,7 +30,7 @@ CONST_MAX_OPERAND_VAL = 20
 CONST_FUNC_CODE_FIBONACCI = 0
 CONST_FUNC_CODE_FACTORIAL = 1
 
-#kostasStressesME
+# kostas is beautiful
 
 
 
