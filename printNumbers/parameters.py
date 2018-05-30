@@ -29,9 +29,10 @@ CONST_DEF_OPERAND_VAL = 10
 CONST_MAX_OPERAND_VAL = 20
 CONST_FUNC_CODE_FIBONACCI = 0
 CONST_FUNC_CODE_FACTORIAL = 1
-dgc_param = "IDONTKNOWWHATTOADD"
-dgc_ks = "kostasDoYouSeeMyChanges??"
-#show this to martin
+
+#kostasStressesME
+
+
 
 class Parameters(object):
 
