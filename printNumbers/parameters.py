@@ -23,12 +23,16 @@
 # Class to process and store program parameters.
 #
 
+import numpy as np
+
 CONST_VERSION = 'V1.1'
 CONST_VERSION_STRING = '+ + PrintNumbers ' + CONST_VERSION + ' (Software Development in Science 2018) + +'
 CONST_DEF_OPERAND_VAL = 10
 CONST_MAX_OPERAND_VAL = 20
 CONST_FUNC_CODE_FIBONACCI = 0
 CONST_FUNC_CODE_FACTORIAL = 1
+
+KOSTAS_PARAM = np.inf
 
 class Parameters(object):
 
